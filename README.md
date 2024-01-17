@@ -1,0 +1,2 @@
+# FreeAGI
+personal llm expansion
